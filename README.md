@@ -1,11 +1,7 @@
 - 👋 Hi, I’m @DelHAX
 - This is a warehouse of all small things.
-<!--- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<---
-DelHAX/DelHAX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- cut_file.py cut file on small parts parameters: 
+file_name
+len_of_file 
+
