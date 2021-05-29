@@ -5,3 +5,12 @@
 file_name
 len_of_file 
 
+- folder_compare.py compares two directories. Files whose strings differ in location are considered the same.
+parameters:
+folder1
+folder2
+
+- zip_compare.py compares two archives. Files whose strings differ in location are considered the same.
+parameters:
+archive1
+archive2
