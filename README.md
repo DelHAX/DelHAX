@@ -3,7 +3,7 @@
 
 - cut_file.py cut file on small parts parameters: 
 file_name
-len_of_file 
+len_of_file (strings)
 
 - folder_compare.py compares two directories. Files whose strings differ in location are considered the same.
 parameters:
