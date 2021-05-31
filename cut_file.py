@@ -13,7 +13,6 @@ def count_line(name, count_strings):
         while n < count:
             with open(name) as my_file2:
                 with open(n.__str__() + name[-4:], 'a') as res_file:
-                    res_file.write('VER2\nREM Список элементов\n\n')
                     res_file.writelines(my_file2.readlines()[n:n + int(count_strings)])
             n = n + int(count_strings)
 
